@@ -6,6 +6,11 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Alarm clock goes here!!</Text>
+      // Step One:  Clock goes here //
+
+      // Menu selecting custom sounds //
+
+      // Button to upload custom sounds //
       <StatusBar style="auto" />
     </View>
   );
